@@ -6,3 +6,4 @@ pydap
 s3fs
 requests
 intake-xarray
+aiohttp
