@@ -2,9 +2,9 @@ name: eurec4a_intake
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, netcdf_driver ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, netcdf_driver ]
 
 jobs:
   build:
